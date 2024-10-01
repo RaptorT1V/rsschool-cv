@@ -1,10 +1,10 @@
-# Илья Слинько
+# Ilya Slinko
 
-> _**Музыкант** по призванию | **программист** по образованию_
+> _**Programmer** by hire | **Musician** by desire_
 
 ---
 
-📍 **Новотроицк, Оренбургская область, Россия**  
+📍 **Novotroitsk, Orenburg region, Russia**  
 📧 [E-mail](mailto:dilan2911@list.ru)  
 📞 +7 (986) 793-93-09  
 💬 [Telegram](https://t.me/GorshokZhiv)  
@@ -12,33 +12,33 @@
 
 ---
 
-## 🎯 О себе
+## 🎯 About me
 
-Мои **цели**:
-1. Устроиться на дистанционную работу и зарабатывать ≥ 60.000₽ в месяц _(хочу накопить на рояль)_
-2. Получить знания и практические навыки, чтобы в дальнейшем создать свою команду разработчиков для реализации моих идей
+My **goals**:
+1. To get a remote job and earn ≥ $650 per month _(I want to save up for a grand piano)_
+2. Gain knowledge and practical skills, in order to build my development team, who will help me realise a lot of my ideas in the future
 
-**Должности**, которыми я интересуюсь:
+**Jobs** I am interested in:
 - Data Analyst, Data Scientist, ML-Engineer
 - Database Developer, Database Analyst, Data Architect
 - Python Developer, Flutter Developer
   
-~~Работа в проектах, таких как _"**Concert Creator**"_ или _"**MuseScore**"_ была бы идеальной~~
+~~Working on projects such as _‘**Concert Creator**’_ or _‘**MuseScore**’_ would be ideal~~.
 
 ---
 
-## 🛠 Навыки
+## 🛠 Skills
 
 - **MS Excel**
 - **Python** 
 - **PostgreSQL**
-- _Линейная алгебра_**,** _математический анализ_**,** _математическая статистика_
+- _Linear Algebra_**,** _Mathematical Analysis_**,** _Mathematical Statistics_
 - **HTML + CSS**
-- Работал в OC Linux: **Ubuntu** и **Kali Linux**
+- Worked in Linux based operating systems: **Ubuntu** and **Kali Linux**
 
 ---
 
-## 💻 Примеры кода
+## 💻 Code examples
 
 ```python
 # Пример 1: Простой скрипт на Python
@@ -53,44 +53,44 @@ SELECT * FROM users WHERE age > 18;
 
 ---
 
-## 💼 Опыт работы
+## 💼 Working experience
 
-Октябрь 2023 – Декабрь 2023:  
-Курсовая работа «Разработка базы данных на PostgreSQL для мобильного приложения, позволяющего осуществлять онлайн-заказы в столовой ВУЗа»
+**October 2023 – December 2023**:  
+Coursework _‘Development of a PostgreSQL database for a mobile application that allows online ordering in the university canteen’_.
 
-Апрель 2024:  
-Курсовая работа «Разработка мобильного приложения на Flutter для заказов в столовой»
+**April 2024**:  
+Coursework _‘Developing a mobile application on Flutter for dining hall orders’_
 
-Май 2024:  
-Курсовая работа «Методы визуализации данных с помощью библиотек языка программирования Python»
+**May 2024**:  
+Coursework _‘Data visualisation methods using Python programming language libraries’_
 
-Июнь 2024 – Июль 2024:  
-Практика в АО «ЦИФРОВАЯ СТАЛЬ» (г. Москва)
+**June 2024 – July 2024**:  
+Internship at _JSC ‘Digital Steel'’_ (Moscow)
 
-Настоящее время – май 2025:  
-Выполнение дипломной работы «Разработка мобильной системы мониторинга технических параметров оборудования для специалистов по надёжности»
-
----
-
-## 🎓 Образование
-
-_**Очно:**_ НФ НИТУ «МИСиС», Новотроицк
-- [ ] 09.03.03 Прикладная информатика (2021–2025 гг.)
-
-_**Дистант:**_ Научно-образовательный центр "Цифровая кафедра" на базе НИТУ «МИСиС», Москва
-- [ ] Кибербезопасность и защита данных (2024–2025 гг.)
-- [ ] Анализ данных (2024–2025 гг.)
-
- **Курсы**:
-1. [x] Практический курс для новичков по SQL и PostgreSQL (by **EngineerSpock**) _Сентябрь-октябрь 2023_
-2. [x] Добрый, добрый Python с Сергеем Балакиревым (by **Сергей Балакирев**) _Март-май 2024_
-3. [x] "Поколение Python": курс для начинающих (by **Тимур Гуев**) _Июнь-август 2024_
-4. [ ] Какие-то ещё курсы, которые я буду проходить
+**Now – May 2025**:  
+Completion of thesis _‘Development of mobile system for monitoring technical parameters of equipment for reliability specialists’_.
 
 ---
 
-## 🇬🇧 Английский язык
-Уровень: _B1-B2_  
-В школе английский язык был одним из моих любимых предметов, наряду с алгеброй и русским языком. Часто участвовал в олимпиадах и конкурсах.  
-Практикую язык в разговорных чатах на английских серверах Discord, а также смотрю контент на YouTube на английском языке без субтитров.
+## 🎓 Education
+
+_**Formal education:**_ NF NITU ‘MISIS’, Novotroitsk
+- [ ] 09.03.03 Applied Informatics (2021-2025)
+
+_**Distance learning:**_ Scientific and Educational Centre ‘Digital Department’ on the basis of NITU ‘MISIS’, Moscow
+- [ ] Cybersecurity and Data Protection (2024-2025)
+- [ ] Data Analytics (2024-2025)
+
+ **Online Courses**:
+1. [x] Practical course for beginners on SQL and PostgreSQL (by **EngineerSpock**) _September-October 2023_.
+2. [x] Good, Good Python with Sergey Balakirev (by **Sergey Balakirev**) _March-May 2024_.
+3. [x] Python Generation: a course for beginners (by **Timur Guev**) _June-August 2024_.
+4. [ ] Any other courses I'll be taking
+
+---
+
+## 🇬🇧 English language
+Level: _B1-B2_  
+At school, English was one of my favourite subjects, along with algebra and Russian. I often participated in Olympiads and competitions.  
+I practise the language in conversational chats on English Discord servers, and also watch content on YouTube in English without subtitles.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
